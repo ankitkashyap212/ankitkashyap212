@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankitkashyap212
 - 👀 I’m interested in ...Playing Cricket or Badminton, and adopting and learning new technologies.
-- 🌱 I’m currently learning ...Java with spring framework and Python with Flask.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Java with spring framework and Python with Flask and Django.
+- 💞️ I’m looking to collaborate on IT Companies...
 - 📫 How to reach me ...
 
 <!---
